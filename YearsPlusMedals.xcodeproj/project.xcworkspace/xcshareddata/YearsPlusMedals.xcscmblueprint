@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "65D8F189BF05E707609A44C1EACE6F511496352F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "65D8F189BF05E707609A44C1EACE6F511496352F" : 0,
+    "4EB266441ED3303F6C79F5854662466105CCF85D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "11044355-EC3D-4F62-9556-E93052ACFF8F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "65D8F189BF05E707609A44C1EACE6F511496352F" : "ParseStarterProject-Swift2\/",
+    "4EB266441ED3303F6C79F5854662466105CCF85D" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YearsPlusMedals",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YearsPlusMedals.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/alupin\/so-webapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4EB266441ED3303F6C79F5854662466105CCF85D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/alupin\/yearsplusmedals.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65D8F189BF05E707609A44C1EACE6F511496352F"
+    }
+  ]
+}
